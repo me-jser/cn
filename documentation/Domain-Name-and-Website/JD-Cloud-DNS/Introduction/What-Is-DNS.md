@@ -4,7 +4,7 @@
 
 域名系统（Domain Name System，简称DNS）是整个互联网服务的基础系统之一，负责将人们访问的互联网域名转换为IP地址，这一转换的过程叫做“域名解析”， 所以DNS又称“域名解析系统”。域名系统以树状结构组成，从根节点开始，依次包含根域、顶级域、二级域等，最下端叶子则表示主机名，每条完整路径组合表示为一个完全格式域名(FQDN：Fully Qualified Domain Name),也称为全称域名。
 
-![QQ图片20180301102056.png](http://img1.jcloudcs.com/cms/293bcc3d-7cb1-4946-962e-bb39c95b7bc320180302141200.png)
+![img](https://github.com/jdcloudcom/cn/blob/edit/image/dns-img/product-describe.png)
 
 域名系统每个节点都由若干DNS服务器组成。这些节点服务器中拥有域名解析配置管理权限的服务器称为权威DNS服务器。没有域名解析配置管理权限，但是能同步权威DNS服务器数据，利用同步缓存提供解析服务的称为缓存DNS服务器。
 
