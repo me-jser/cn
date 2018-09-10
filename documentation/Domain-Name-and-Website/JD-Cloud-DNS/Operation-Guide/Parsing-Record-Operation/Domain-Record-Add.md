@@ -1,13 +1,14 @@
-- ## **删除域名：**
+- ## **添加解析记录：**
 
   1、进入控制台界面
 
-  ![img](file:///C:\Users\ZHANGJ~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png)
+  ![img](https://github.com/jdcloudcom/cn/blob/edit/image/dns-img/add-record1.png)
 
    
 
-  2、点击操作下的更多按钮，选择删除会弹出如下的对话框
+  2、点击此域名或右侧的解析按钮进入域名解析页面
 
-  ![img](file:///C:\Users\ZHANGJ~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.png)
+  ![img](https://github.com/jdcloudcom/cn/blob/edit/image/dns-img/add-record2.png)
 
-  点击确认后即会删除此域名，并将此域名下的所有解析记录删除，请您谨慎操作。
+  3、添加解析记录
+  ![img](https://github.com/jdcloudcom/cn/blob/edit/image/dns-img/add-record3.png)
