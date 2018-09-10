@@ -6,7 +6,7 @@
 
   3、点击操作下的修改按钮
 
-  ![img](file:///C:\Users\ZHANGJ~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png)
+  ![img](https://github.com/jdcloudcom/cn/blob/edit/image/dns-img/modify-record1.png)
 
   **规则说明：**
 
